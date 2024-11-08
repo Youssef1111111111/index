@@ -1,0 +1,50 @@
+h1{
+    text-align:center ;
+   
+
+}
+
+span{
+    color: #ffffff;
+}
+.card{
+    width:23% ;
+    background-color: #444;
+    height: auto;
+    display: inline-block;
+    text-align: center;
+    border: 5px rgb(255, 255, 255) solid;
+    margin: 5px;   
+    padding-bottom: 10px; 
+
+}
+body{
+
+    background-color:rgb(66, 66, 254) ;
+
+
+}
+img{
+    width: 100% ;
+    
+
+}
+h3{
+    text-decoration: underline;
+    font-size: 20px;
+
+}
+p{
+    color:white ;
+    font-size:15px;
+
+
+
+}
+button{
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    width: 40%;
+    border-radius: 20px;
+    background-color: black;
+}
